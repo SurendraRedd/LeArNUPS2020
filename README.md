@@ -1,4 +1,4 @@
-# LeArNUPS2020
+# UPSNL2020
 This repo contains the details of the ups application.
 
 # How to upload the website in to Github

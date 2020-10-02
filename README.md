@@ -11,6 +11,6 @@ This repo contains the details of the python and web application blogs.
 - git push -u origin master
 
 # Home Screen
-<img src="images/Homepage.png" width="500">
+<img src="images/Homepage.png" width="800">
 
 > Note: Add the url link in About.

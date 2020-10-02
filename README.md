@@ -10,4 +10,7 @@ This repo contains the details of the python and web application blogs.
 - git remote add origin reponame
 - git push -u origin master
 
+# Home Screen
+<img src="images/Homepage.png" width="500">
+
 > Note: Add the url link in About.
